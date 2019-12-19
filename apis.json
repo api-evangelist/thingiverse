@@ -1,0 +1,53 @@
+{
+    "name": "Thingiverse",
+    "description": "Thingiverse is a universe of things. Download our files and build them with your lasercutter, 3D printer, or CNC.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/258-thingiverse.jpg",
+    "tags": [
+        "3d printing",
+        "digital",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/thingiverse\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Thingiverse",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/258-thingiverse.jpg",
+            "humanURL": "http:\/\/www.thingiverse.com\/developers",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/thingiverse-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.thingiverse.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/thingiverse-com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/thingiverse-com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/thingiverse"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.thingiverse.com\/developers"
+        }
+    ]
+}
